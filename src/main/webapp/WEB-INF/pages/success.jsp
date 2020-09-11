@@ -14,9 +14,8 @@
 
     <h3>入门成功</h3>
 
-<%--    ${ msg }--%>
+<%--    <form action="" method=""></form>--%>
 
-<%--    ${sessionScope}--%>
 
 </body>
 </html>
