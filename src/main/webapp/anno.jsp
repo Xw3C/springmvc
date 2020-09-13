@@ -35,5 +35,22 @@
             用户年龄：<input type="text" name="age"/><br/>
             <input type="submit" value="提交"/>
         </form>
+
+
+
+        <br>
+        <br>
+
+        <a href="anno/testSessionAttributes">testSessionAttributes</a>
+
+        <br>
+        <br>
+
+        <a href="anno/getSessionAttributes">getSessionAttributes</a>
+
+        <br>
+        <br>
+
+        <a href="anno/delSessionAttributes">delSessionAttributes</a>
 </body>
 </html>
